@@ -1,0 +1,1 @@
+In this project, we conducted data analysis on bicycle-related data using Excel. The analysis focuses on key metrics and trends, which are visually represented in a user-friendly dashboard. The dashboard highlights critical insights such as usage patterns, providing actionable insights for decision-making
